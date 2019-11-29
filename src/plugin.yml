@@ -1,0 +1,5 @@
+main: io.github.SebastianDanielFrenz.ComputerPlugin.ComputerPlugin
+version: alpha 0.0.1
+name: ComputerPlugin
+depend:
+- BML
